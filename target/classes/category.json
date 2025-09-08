@@ -1,0 +1,153 @@
+{
+  "units": {
+    "Angles": {
+      "Microradians": "µrad",
+      "Micro-arcseconds": "µas",
+      "Milliradians": "mrad",
+      "Milli-arcseconds": "mas",
+      "Arcminutes": "′",
+      "Radians": "rad",
+      "Arcseconds": "″",
+      "Degrees": "°"
+    },
+    "Surface": {
+      "Acres": "ac",
+      "Ares": "a",
+      "Square inches": "in²",
+      "Square centimeters": "cm²",
+      "Decares": "daa",
+      "Hectares": "ha",
+      "Square yards": "yd²",
+      "Square kilometers": "km²",
+      "Square meters": "m²",
+      "Square miles": "mi²",
+      "Square millimeters": "mm²",
+      "Square feet": "ft²",
+      "Stremma": "stremma"
+    },
+    "Data": {
+      "Bytes": "B",
+      "Bits": "b",
+      "Gibibytes": "GiB",
+      "Gigabytes": "GB",
+      "Kibibytes": "KiB",
+      "Kilobytes": "KB",
+      "Mebibytes": "MiB",
+      "Megabytes": "MB",
+      "Pebibytes": "PiB",
+      "Petabytes": "PB",
+      "Tebibytes": "TiB",
+      "Terabytes": "TB"
+    },
+    "Energy": {
+      "British thermal units": "BTU",
+      "Joules": "J",
+      "Ergs": "erg",
+      "Calories": "cal",
+      "Kilojoules": "kJ",
+      "Kilocalories": "kcal",
+      "Kilowatt hours": "kWh",
+      "Newton meters": "N·m",
+      "Foot-pounds": "ft·lb"
+    },
+    "Strength": {
+      "Dynes": "dyn",
+      "Pounds of force": "lbf",
+      "Kilograms of force": "kgf",
+      "Newtons": "N",
+      "Poundals": "pdl"
+    },
+    "Fuel_economy": {
+      "Gallons per 100 miles": "gal/100mi",
+      "Kilometers per liter": "km/L",
+      "Liters per 100 kilometers": "L/100km",
+      "Miles per gallon": "mpg"
+    },
+    "Distance": {
+      "Inches": "in",
+      "Centimeters": "cm",
+      "Decimeters": "dm",
+      "Yards": "yd",
+      "Astronomical units": "AU",
+      "Kilometers": "km",
+      "Light years": "ly",
+      "Meters": "m",
+      "Miles": "mi",
+      "Nautical miles": "nmi",
+      "Millimeters": "mm",
+      "Parsecs": "pc",
+      "Feet": "ft"
+    },
+    "Power": {
+      "BTU per minute": "BTU/min",
+      "Kilowatts": "kW",
+      "Horsepower": "hp",
+      "Watts": "W"
+    },
+    "Pressure": {
+      "Atmospheres": "atm",
+      "Bars": "bar",
+      "Inches of mercury": "inHg",
+      "Pounds per square inch": "psi",
+      "Kilopascals": "kPa",
+      "Pascals": "Pa",
+      "Torr": "Torr"
+    },
+    "Speed": {
+      "Kilometers per hour": "km/h",
+      "Meters per second": "m/s",
+      "Miles per hour": "mph",
+      "Feet per hour": "ft/h",
+      "Knots": "kn"
+    },
+    "Temperature": {
+      "Kelvins": "K",
+      "Degrees Celsius": "°C",
+      "Degrees Fahrenheit": "°F"
+    },
+    "Time": {
+      "Days": "d",
+      "Months": "mo",
+      "Weeks": "wk",
+      "Years": "yr",
+      "Hours": "h",
+      "Minutes": "min",
+      "Seconds": "s",
+      "Milliseconds": "ms",
+      "Microseconds": "µs",
+      "Nanoseconds": "ns"
+    },
+    "Volume": {
+      "Centiliters": "cL",
+      "Cubic centimeters": "cm³",
+      "Fluid drams": "fl dr",
+      "Cups": "cup",
+      "Gallons": "gal",
+      "Imperial gallons": "imp gal",
+      "Quarts": "qt",
+      "Imperial quarts": "imp qt",
+      "Liters": "L",
+      "Tablespoons": "tbsp",
+      "Cubic meters": "m³",
+      "Milliliters": "mL",
+      "Pints": "pt",
+      "Imperial pints": "imp pt",
+      "Cubic feet": "ft³",
+      "US fluid ounces": "fl oz",
+      "Imperial fluid ounces": "imp fl oz"
+    },
+    "Mass": {
+      "Long tons": "long tn",
+      "Drams": "dr",
+      "Pounds": "lb",
+      "Grams": "g",
+      "Stones": "st",
+      "Kilograms": "kg",
+      "Short tons": "short tn",
+      "Milligrams": "mg",
+      "Grains": "gr",
+      "Metric tons": "t",
+      "Ounces": "oz"
+    }
+  }
+}
