@@ -1,10 +1,6 @@
 package org.example.DTO;
 
-import lombok.*;
+import java.util.HashMap;
 
-@Data
-@NoArgsConstructor
-@AllArgsConstructor
-public class Category {
-    private String categoryName;
+public class Category extends HashMap<String, String> {
 }
